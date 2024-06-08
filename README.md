@@ -41,7 +41,7 @@
   
   ###
   
-  <p align="left">I'm Gangadhara Rao Burada<br><br>- 🔭 I’m working as Intern<br>- 📚 I'm currently looking for Job Opportunities <br>- ⚡ In my free time I do some project works</p>
+  <p align="left">I'm Burada Mohan Sri Krishna<br><br>- 🔭 I’m working as Intern<br>- 📚 I'm currently looking for Job Opportunities <br>- ⚡ In my free time I do some project works</p>
   
   ###
   
